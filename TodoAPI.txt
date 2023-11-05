@@ -1,0 +1,5 @@
+TodoAPI
+
+Paramos no setor Roteamento e caminhos de URL do site https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio utilizando o Visual Studio 2022.
+
+
